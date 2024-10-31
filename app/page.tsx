@@ -11,7 +11,7 @@ export default function Home() {
       <section className="remove-scrollbar container my-auto">
         <div className="sub-container max-w-[496px]">
           <Image 
-            src="/assets/icons/logo-full.svg"
+            src="/assets/icons/logo-full1.svg"
             height={1000}
             width={1000}
             alt="patient"
@@ -32,7 +32,7 @@ export default function Home() {
       </section>
 
       <Image
-        src="/assets/images/onboarding-img.png"
+        src="/assets/images/onboarding-img1.jpg"
         height={1000}
         width={1000}
         alt="patient"
